@@ -40,3 +40,106 @@ m4/ltsugar.m4
 m4/ltversion.m4
 m4/lt~obsolete.m4
 autom4te.cache
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+Makefile
+config.*
+cplusplus/.deps
+cplusplus/.dirstamp
+cudd/.deps
+cudd/.dirstamp
+dddmp/.deps
+dddmp/.dirstamp
+dddmp/exp/test*.sh
+epd/.deps
+epd/.dirstamp
+libtool
+mtr/.deps
+mtr/.dirstamp
+nanotrav/.deps
+st/.deps
+st/.dirstamp
+util/.deps
+util/.dirstamp
